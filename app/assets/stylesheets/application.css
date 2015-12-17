@@ -12,7 +12,12 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap_and_overrides
+
  */
+
+ 
+/* Demais folhas de estilo a seguir... */
 
 body { padding-top: 60px; }
 footer { margin-top: 100px; }
